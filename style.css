@@ -1,0 +1,25 @@
+html {
+    scroll-padding-top: 80px; 
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #D91C2B;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #b91522;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
